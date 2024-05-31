@@ -27,12 +27,8 @@
 
 ## Sobre mim
 
-Atualmente, sou estudante do 4º ano de Matemática pela Univesp e do 3º ano de Sistemas de Informação pela Cruzeiro do Sul.
+Atualmente atuando como desenvolvedor de sistemas na Polícia Militar do Estado de São Paulo, criando ferramentas que garantem maior eficiência no serviço administrativo. Utilizo Angular, PHP e Javascript para desenvolver e manter sistemas que agilizam e melhoram a prestação de serviços. Também trabalho diretamente com projetos do Google Workspace, visando a automatização dos processos através do Google Apps Script e do Google Sheets.
 
-No meu trabalho no Setor Administrativo da Polícia Militar, atuo no desenvolvimento de soluções inteligentes para agilizar e melhorar a prestação de serviços.
+Além do meu trabalho, sou estudante do 4º ano de Matemática pela Univesp e do 3º ano de Sistemas de Informação pela Cruzeiro do Sul. Busco expandir meus conhecimentos nesse universo que é a tecnologia, e aplicar os conceitos matemáticos que aprendo nas minhas soluções de programação. 
 
-Nesse contexto, tenho trabalhado diretamente com projetos do Google Workspace, visando a eficiência dos serviços com o Google Sheets e a automatização dos processos através do Google Apps Script.
-
-Também sou responsável pela manutenção e atualização de sistemas utilizando PHP e Laravel. Além disso, desenvolvo sistemas para agilizar os serviços administrativos utilizando Javascript e Angular.
-
-Sou apaixonado por programação e sempre busco expandir meus conhecimentos nesse universo que é a tecnologia.
+Sou apaixonado por desafios e pela busca constante de inovação e aprendizado.
