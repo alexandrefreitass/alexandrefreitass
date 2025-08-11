@@ -8,8 +8,6 @@
 
 ## Tecnologias que eu uso no meu dia
 
-## Tecnologias que eu uso no meu dia
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
