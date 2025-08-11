@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alexandre Freitas ✋
 
 [![Portflio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alexandrejanizelo.com.br/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-de-freitas-605b63254/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-de-freitas-filho-605b63254/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandrefreitass)
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrefreitass&show_icons=true&theme=dark)
