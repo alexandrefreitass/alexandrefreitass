@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alexandre Freitas ✋
 
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge)](https://alexandrejanizelo.com.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-de-freitas-filho-605b63254/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrejanizelo/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandrefreitass)
 
 <div align="center">
@@ -53,6 +53,13 @@ Gosto de resolver problemas complexos com simplicidade, medir impacto e iterar r
 
 ---
 
+### 🔔 Minhas métricas
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrefreitass&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrefreitass&theme=vue)
+
+<p>&nbsp;</p>
+
 ### 📌 Projetos em destaque
 <div align="center">
   
@@ -61,8 +68,8 @@ Gosto de resolver problemas complexos com simplicidade, medir impacto e iterar r
 
 </div>
 
-<!-- Opcional: Streaks
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alexandrefreitass&theme=transparent&hide_border=true" height="165" alt="GitHub Streak"/>
 </div>
--->
+
