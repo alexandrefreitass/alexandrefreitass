@@ -101,3 +101,9 @@ Gosto de resolver problemas complexos com simplicidade, medir impacto e iterar r
     </td>
   </tr>
 </table>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/alexandrefreitass/alexandrefreitass/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
