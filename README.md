@@ -15,8 +15,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrefreitass&theme=slate_orange" alt="Resumo do Perfil" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrefreitass&theme=slate_orange" alt="Linguagens mais usadas por repositório" />
+  <h3>🏆 Minhas Conquistas</h3>
+  <img src="https://github-profile-trophies.vercel.app/?username=alexandrefreitass&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
 </div>
 
 ---
