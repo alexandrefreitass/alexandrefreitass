@@ -1,17 +1,28 @@
 ## Olá! Eu sou o Alexandre Freitas ✋
 
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge)](https://alexandrejanizelo.com.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrejanizelo/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandrefreitass)
+<div align="center">
+  <a href="https://alexandrejanizelo.com.br/">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexandrejanizelo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/alexandrefreitass">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexandrefreitass&show_icons=true&rank_icon=github&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefreitass&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrefreitass&theme=slate_orange" alt="Resumo do Perfil" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrefreitass&theme=slate_orange" alt="Linguagens mais usadas por repositório" />
 </div>
 
 ---
 
 ### ⚙️ Stack principal
+
 **Linguagens & Marcação**<br>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -53,24 +64,37 @@ Gosto de resolver problemas complexos com simplicidade, medir impacto e iterar r
 
 ---
 
-### 🔔 Minhas métricas
+### 📌 Projetos em Destaque
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrefreitass&theme=vue" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrefreitass&theme=vue" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=alexandrefreitass&theme=dark&hide_border=true" height="165" alt="GitHub Streak"/>
-</div>
-
-<p>&nbsp;</p>
-
-### 📌 Projetos em destaque
-
-<div align="center">
-  <a href="https://github.com/alexandrefreitass/Renomeador-automatico-Arquivo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandrefreitass&repo=Renomeador-automatico-Arquivo&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/alexandrefreitass/Sistema-consulta-Datajud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandrefreitass&repo=Sistema-consulta-Datajud&theme=dark&hide_border=true" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📂 Renomeador Automático</h3>
+      <p align="center">
+        Automação inteligente para organização de arquivos em massa.
+      </p>
+      <p align="center">
+        <code>Python</code> <code>Automação</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/alexandrefreitass/Renomeador-automatico-Arquivo">
+          <img src="https://img.shields.io/badge/Ver_Projeto-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Renomeador">
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚖️ Sistema Consulta Datajud</h3>
+      <p align="center">
+        Integração para consulta de processos jurídicos via API Datajud.
+      </p>
+      <p align="center">
+        <code>API</code> <code>Integração</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/alexandrefreitass/Sistema-consulta-Datajud">
+          <img src="https://img.shields.io/badge/Ver_Projeto-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Sistema Datajud">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
